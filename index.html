@@ -9,13 +9,17 @@ background-color: #adadad; font-family: arial,sans-serif;
 a {text-decoration: none}
 a.title:link {color:#424242;}    
 a.title:visited {color:#424242;} 
-a.title:hover {color:#424242;}   
-a.links:link {color:#4E78A0;}
-a.links:visited {color:#4E78A0;}
-a.links:hover {color:#e6e6e6;} 
-a.posts:link {color:#424242;}
-a.posts:visited {color:#424242;}
-a.posts:hover {color:#e6e6e6;} 
+a.title:hover {color:#424242;}  
+a.links {
+  color:#4E78A0;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+}
+a:hover { color:#e6e6e6; }
+
 h1
 {
   color: #84868a;
@@ -25,19 +29,7 @@ h2
   color: #2253ac;
 }
 </style>
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-30272888-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 </head>
 
 <body>
