@@ -6,6 +6,7 @@ body{
 }
 
 a{
+	text-decoration: none;
 	color:#4E78A0;
 	-o-transition:.5s;
 	-ms-transition:.5s;
