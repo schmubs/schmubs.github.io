@@ -7,7 +7,6 @@ body{
 
 a{
 	text-decoration: none;
-	font-size: 200%;
 	color:#4E78A0;
 	-o-transition:.5s;
 	-ms-transition:.5s;
@@ -39,6 +38,7 @@ td{
 	padding: 10px 10px 10px 10px
 	align: center;
 	valign: center;
+	font-size: 150%;
 }
 
 td img{
