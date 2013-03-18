@@ -3,24 +3,11 @@ body{
 	font-family: Helvetica, Arial, sans-serif;
 }
 
-a{
-	text-decoration: none
+.links{
 	color:#4E78A0;
 	transition-property: color;
 	transition-duration: .5s;
 	transition-timing-function: ease-in;
-}
-
-a.title:link{
-	color: #424242;
-}
-
-a.title:visited{
-	color: #424242;
-}
-
-a.title:hover{
-	color: #424242;
 }
 
 h1{
@@ -30,4 +17,20 @@ h1{
 
 h2{
 	color: #2253ac;
+}
+
+table{
+	width: 250px;
+	border: 0px;
+	padding: 10px 10px 10px 10px;
+}
+
+td{
+	margin: auto;
+	valign: center;
+}
+
+td img{
+	width: 60px;
+	height:60px;
 }
