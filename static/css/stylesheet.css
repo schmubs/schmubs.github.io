@@ -3,14 +3,12 @@ body{
 	font-family: Helvetica, Arial, sans-serif;
 }
 
-a.links{
+a{
 	text-decoration: none
-	 color:#4E78A0;
-	 -o-transition:.5s;
-	 -ms-transition:.5s;
-	 -moz-transition:.5s;
-	 -webkit-transition:.5s;
-	 transition:.5s;
+	color:#4E78A0;
+	transition-property: color;
+	transition-duration: .5s;
+	transition-timing-function: ease-in;
 }
 
 a.title:link{
