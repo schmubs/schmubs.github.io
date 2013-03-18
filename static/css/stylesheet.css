@@ -4,11 +4,14 @@ body{
 	text-decoration: none;
 }
 
-a img{
+a{
 	color:#4E78A0;
 	transition-property: color;
 	transition-duration: .5s;
 	transition-timing-function: ease-in;
+}
+a:hover{
+	color: white;
 }
 
 h1{
