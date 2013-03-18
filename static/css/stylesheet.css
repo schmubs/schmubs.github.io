@@ -3,7 +3,7 @@ body{
 	font-family: Helvetica, Arial, sans-serif;
 }
 
-a{
+a.links{
 	text-decoration: none
 	 color:#4E78A0;
 	 -o-transition:.5s;
@@ -13,15 +13,15 @@ a{
 	 transition:.5s;
 }
 
-a:link{
+a.title:link{
 	color: #424242;
 }
 
-a:visited{
+a.title:visited{
 	color: #424242;
 }
 
-a:hover{
+a.title:hover{
 	color: #424242;
 }
 
