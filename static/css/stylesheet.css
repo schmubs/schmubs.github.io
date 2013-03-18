@@ -1,0 +1,35 @@
+body{
+	background-color: #adadad;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+a{
+	text-decoration: none
+	 color:#4E78A0;
+	 -o-transition:.5s;
+	 -ms-transition:.5s;
+	 -moz-transition:.5s;
+	 -webkit-transition:.5s;
+	 transition:.5s;
+}
+
+a:link{
+	color: #424242;
+}
+
+a:visited{
+	color: #424242;
+}
+
+a:hover{
+	color: #424242;
+}
+
+h1{
+	color: #84868A;
+	font-size: 270%;
+}
+
+h2{
+	color: #2253ac;
+}
