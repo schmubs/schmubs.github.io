@@ -18,8 +18,9 @@ a:hover{
 }
 
 h1 a{
+	margin-top: 25%
 	color: black;
-	font-size: 270%;
+	font-size: 125%;
 	text-align: center;
 }
 
