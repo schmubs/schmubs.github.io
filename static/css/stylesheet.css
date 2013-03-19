@@ -18,10 +18,10 @@ a:hover{
 }
 
 h1 a{
-	margin-top: 25%
 	color: black;
-	font-size: 125%;
+	font-size: 150%;
 	text-align: center;
+	margin-top: 25%;
 }
 
 h2{
