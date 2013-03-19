@@ -2,4 +2,4 @@ sqreone.github.com
 ==================
 feel free to fork/use whatever elements, assets, etc.
 
-you can follow me on twitter @sqreone
+<a href="https://twitter.com/intent/user?screen_name=sqreone">Follow @sqreone</a>
