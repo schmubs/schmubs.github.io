@@ -4,7 +4,7 @@ body{
 	text-decoration: none;
 }
 
-div div a{
+div a{
 	text-decoration: none;
 	color:#4E78A0;
 	-o-transition:.5s;
@@ -17,7 +17,7 @@ a:hover{
 	color: white;
 }
 
-div h1{
+h1{
 	color: black;
 	font-size: 150%;
 	text-align: center;
