@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$('twitter-timeline').click(function(){
+	$('a').click(function(){
 		
 	});
 });
