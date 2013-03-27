@@ -1,5 +1,7 @@
 $(document).ready(function(){
-	$('a').click(function(){
-		
+	$('.button').click(function(){
+		$(this).animate({
+			text-align: left	
+		});
 	});
 });
