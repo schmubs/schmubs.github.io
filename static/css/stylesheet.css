@@ -58,7 +58,8 @@ td img{
 	text-align: center;
 }
 
-.button
+p
 {
-	text-align: center
+	margin: auto;
+	background-color: white;
 }
