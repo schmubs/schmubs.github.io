@@ -1,7 +1,7 @@
 $(document).ready(function(){
-	$('.button').toggle(function(){
+	$('table').toggle(function(){
 		$(this).animate({
-			margin: 'left'
+			margin-left: '0px'
 		});
 	});
 });
