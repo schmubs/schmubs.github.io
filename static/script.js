@@ -1,7 +1,7 @@
 $(document).ready(function(){
-	$('.button').click(function(){
+	$('.button').toggle(function(){
 		$(this).animate({
-			text-align: left	
+			text-align: '-=150px'
 		});
 	});
 });
