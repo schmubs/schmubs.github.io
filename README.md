@@ -1,4 +1,4 @@
-salim.github.com
+salimhafid.github.io
 ==================
 feel free to use as appropriate
 
